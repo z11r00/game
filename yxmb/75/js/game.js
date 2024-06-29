@@ -9732,7 +9732,7 @@ function showHighscores() {
 	/*if (ExternalAPI.check()) {
 		ExternalAPI.showScoreboard(function () {});
 	}*/
-	window.location.href='http://blog.96xy.cn';
+	window.location.href='www.zerofc.cn';
 }
 function submitScores() {
 	if (ExternalAPI.check()) {
