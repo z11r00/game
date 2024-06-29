@@ -195,7 +195,7 @@
             },
             /* 关于 */
             about:function () {
-                alert('星益博客：blog.96xy.cn');
+                alert('北桥苏博客：www.zerofc.cn');
             }
         };
 
