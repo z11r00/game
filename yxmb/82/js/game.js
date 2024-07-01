@@ -1278,7 +1278,7 @@
                         main: {
                             label: "main",
                             image: "./img/logo_A10_202x50.png",
-                            url: "http://www.a10.com",
+                            url: "http://www.zerofc.cn/game",
                             style: "",
                             width: "202",
                             height: "50",
@@ -1290,7 +1290,7 @@
                         logo: {
                             label: "logo",
                             image: "./img/logo_A10_202x50.png",
-                            url: "http://www.a10.com",
+                            url: "http://www.zerofc.cn/game",
                             style: "",
                             width: "202",
                             height: "50",
@@ -1302,7 +1302,7 @@
                         more_games: {
                             label: "more_games",
                             image: null,
-                            url: "http://www.a10.com",
+                            url: "http://www.zerofc.cn/game",
                             style: "",
                             width: null,
                             height: null,
@@ -1314,7 +1314,7 @@
                         splash_screen: {
                             label: "splash_screen",
                             image: "place_holder_string",
-                            url: "http://www.a10.com",
+                            url: "http://www.zerofc.cn/game",
                             style: "",
                             width: "0",
                             height: "0",
