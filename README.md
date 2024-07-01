@@ -6,7 +6,9 @@
 
 
 
-ZERO开发 www.zerofc.cn，一个持续探索副业的独立开发者博客
+博客：www.zerofc.cn
+
+ZERO开发，一个持续探索副业的独立开发者博客
 
 公众号：ZERO开发
 
